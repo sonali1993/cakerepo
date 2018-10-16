@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/sonalibitbucket1993/cakerepo.git/precache-manifest.8a2c0a32c017e70651c952a950c1732e.js"
+  "/sonali1993/so.git/precache-manifest.a3dc9780f0cc58f59c71e9d818730e4e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sonalibitbucket1993/cakerepo.git/index.html", {
+workbox.routing.registerNavigationRoute("/sonali1993/so.git/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
