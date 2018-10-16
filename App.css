@@ -1,0 +1,34 @@
+body{
+    background-image:url("straw.jpg");
+	background-repeat:repeat-y;
+	display:block;
+   }
+#a{
+	 
+	
+	 width:100%;
+	 height:50px;
+	 padding-top:20px;
+	 color:white;
+	 text-align:center;
+	 font-size: 30px;
+	 
+	 background-color:gray;
+}
+#b{
+	list-style-image:url("pineapple.jpg");
+	margin-top:5px;
+	margin-left:280px;
+	display:inline-block;
+	text-align:left;
+	color:black;
+
+	font-size:30px;
+	height:100%;
+}
+#c{
+	margin-left:275px; 
+}
+#d{
+	color:goldenrod;
+}
